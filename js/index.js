@@ -16,6 +16,6 @@ async function handleSubmit(event){
 
     if(response.ok){
         this.reset();
-        alert('Gracias por contactarme,te escribere pronto :3')
+        alert('Gracias por suscribirte,recibiras la información')
     }
 }
