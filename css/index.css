@@ -381,6 +381,7 @@ body {
   outline: none;
   border: none;
   margin-right: 16px;
+  padding: 10px;
 }
 .footer__submit{
   margin-left: auto;
